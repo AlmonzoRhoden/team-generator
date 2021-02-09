@@ -1,0 +1,30 @@
+{
+  "name": "team-generator",
+  "version": "1.0.0",
+  "description": "Generates teammates for your team",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest --verbose test/*"
+  },
+  "repository": 
+  {
+    "type": "git",
+    "url": "https://github.com/AlmonzoRhoden"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlmonzoRhoden/team-generator/issues"
+  },
+  "homepage": "https://github.com/AlmonzoRhoden/team-generator",
+  "dependencies": {
+    "inquirer": "^6.3.1"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}

@@ -1,0 +1,16 @@
+/* Styling website */
+
+.card-header
+{
+   background-color: lightseagreen;
+}
+.jumbotron
+{
+    background-color: rgba(0, 0, 0, 0.932);
+    color: blue;
+    font-size: x-large;
+    background-image: url('../images/banner3.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+}
