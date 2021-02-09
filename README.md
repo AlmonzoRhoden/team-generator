@@ -22,7 +22,7 @@ Afterwards, go to the output folder and double click on "output.html" file and i
 
     `Double click on output.html or right click and select preview in default browser
     
-Video Demonstration link:
+Video demonstration link:
 
 https://drive.google.com/file/d/1dHG1P8utWgIAtAe_Wqxsw186m94fNUM8/view 
 
