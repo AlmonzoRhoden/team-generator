@@ -9,8 +9,8 @@
 
 An individual project, an application that will prompt the user for information about the team manager and then information about the team members. The user can input any number of team members, and they may be a mix of engineers and interns.
 
-<h2>Deployed application</h2>
-https://almonzorhoden.github.io/team-generator/ 
+<h2>Video Demonstration</h2>
+https://drive.google.com/file/d/1dHG1P8utWgIAtAe_Wqxsw186m94fNUM8/view 
 
 <h2>Installation</h2>
 Once the application is downloaded, run the following commands in the terminal at the root of your project folder: 
@@ -22,9 +22,6 @@ Afterwards, go to the output folder and double click on "output.html" file and i
 
     `Double click on output.html or right click and select preview in default browser
     
-Video demonstration link:
-
-https://drive.google.com/file/d/1dHG1P8utWgIAtAe_Wqxsw186m94fNUM8/view 
 
 ## Questions?
 Email me at almonzo.rhoden@gmail.com, so I can address any questions or concerns you may have regarding my application thank you.
