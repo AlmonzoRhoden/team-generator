@@ -1,5 +1,5 @@
 
-<h1 align = "center" > Team Generator </h1>
+<h1 align = "center" > Team Generator</h1>
 
 <h2>Preview of application<h2>
 
